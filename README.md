@@ -22,13 +22,13 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 
       import java.util.*;
 
-      public class mini_proje_11 {
+      public class artik_yil {
 
         public static void main(String[] args) {
 
-          Scanner input = new Scanner(System.in);
-          System.out.print("Please input year : ");
-          int year = input.nextInt();
+          Scanner sc = new Scanner(System.in);
+          System.out.print("Please enter a year : ");
+          int year = sc.nextInt();
 
           if (year >= 0) {
             if (year % 100 == 0) {
