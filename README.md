@@ -1,5 +1,5 @@
 # Artik-Yil-Hesaplama
-Patika.dev > Java101 > Koşullu İfadeler ve Kod Blokları > Ödev3 - Artık YIl Hesaplama
+Patika.dev > Java101 > Koşullu İfadeler ve Kod Blokları > Ödev3 - Artık Yıl Hesaplama
 
 ## Java ile kullanıcının girdiği yılın artık olup olmadığını bulan programı yazınız.
 
